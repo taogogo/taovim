@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/private/var/www/sae/geekgonew'
+let g:netrw_dirhist_2='/private/var/www/sae/geekgonew/1/template/creative'
+let g:netrw_dirhist_3='/private/var/www/ask'
+let g:netrw_dirhist_4='/private/var/www/sae/execute/1/sinasec'
+let g:netrw_dirhist_5='/private/var/www/ask'
+let g:netrw_dirhist_6='/private/var/www/weiyouxi/trunk'
+let g:netrw_dirhist_7='/Users/yuntao/python/github'
+let g:netrw_dirhist_8='/private/var/www/weiyouxi/trunk'
+let g:netrw_dirhist_9='/Users/yuntao/Desktop/taocms/hackdig'
